@@ -82,3 +82,9 @@ a:hover, a:active {
 .clearfix { 
 	zoom: 1; 
 	} 
+
+h1{
+	font-family: roboto;
+	font-size: 2em;
+	color: #c6255e;
+}
