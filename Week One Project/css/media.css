@@ -85,6 +85,7 @@ a:hover, a:active {
 
 h1{
 	font-family: roboto;
-	font-size: 2em;
+	font-size: 20px;
 	color: #c6255e;
+	text-shadow: 3px 2px red;
 }
